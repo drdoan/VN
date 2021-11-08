@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+   <language version="1.0" htmlParse="true">
+;
+
+        <!-- misc -->
+        <item id="btnContinue">Tiếp tục...</item>
+        <item id="btnclose">Đóng cửa</item>
+        <item id="btnHelp">Giúp tôi!</item>
+        <item id="btnAgreement">Quan trọng hơn</item>
+        <item id="btnNeutral">Trung lập</item>
+        <item id="btnDisagreement">Ít quan trọng hơn</item>
+        <item id="btnTransfer">Gửi dữ liệu</item>
+        <item id="btnExit">Lối ra</item>
+        <item id="selectItem">Xin hãy lựa chọn...</item>
+        
+        <!-- Warning when user is trying to leave the page (this item was added for HtmlQ) -->
+        <item id="leaveSiteWarning">Câu trả lời của chị sẽ bị mất.</item>
+
+        <!-- HtmlQ only: In-App Back Button -->
+        <item id="backButton">Quay lại</item>
+        <item id="fillInRequiredFields">Xin vui lòng điền đầy đủ thông tin vào các ô bắt buộc.</item>
+
+        <!-- errors -->
+        <item id="errorHead">Lỗi!</item>
+        <item id="errorWindowTooSmall">Please maximize your browser for using this application.</item>
+
+        <!-- welcome screen (leave blank to skip screen) -->
+        <item id="welcomeHead">Chào mừng!</item>
+        <item id="welcomeText">Cảm ơn chị đã đồng ý tham gia nghiên cứu Q-sort về tổ chức phi lợi nhuận!{br}{br}{b}** Thông tin quan trọng **{/b}{br}Đối với hoạt động này, chị sẽ cần nhiều không gian màn hình nhất có thể!{br}{br}Nếu cần, vui lòng {b}TỐI ĐA{/b} kích thước cửa sổ trình duyệt của chị,{b}{i}tải lại{/i}{/b} trang web này và nhấp vào nút "Tiếp tục" để bắt đầu khảo sát.</item>
+
+        <!-- user login, only displayed if access is restricted (see config-file) -->
+        <item id="loginHead">Mã truy cập</item>
+        <item id="loginText">Vui lòng nhập mã truy cập cho cuộc khảo sát này.</item>
+        <item id="loginFormHeader">Mã truy cập</item>
+        <item id="loginPartIdText">Tên của bạn hoặc số ID khảo sát</item>
+        <item id="loginNoInput">Vui lòng nhập mã truy cập.</item>
+        <item id="loginInvalidInput">Mã truy cập không hợp lệ.</item>
+        <item id="loginNoConnection">Kết nối với máy chủ không thành công. Vui lòng thử lại.</item>
+
+        <!-- introduction (leave blank to skip popup) -->
+        <item id="introHead">Giới thiệu</item>
+        <item id="introText">{b}Tưởng tượng:{/b} Tuần trước chị đi ăn trưa với một người bạn. Khi chị nhắc đến việc chị đang cảm thấy lo lắng và bất định về tương lai của mình, người bạn kể với chị về một tổ chức trong thành phố có hỗ trợ tham vấn sức khỏe tinh thần và định hướng nghề nghiệp cho phụ nữ lao động. Tổ chức đó tên là {b}Dịch vụ Hoa Cúc{/b} và hoạt động theo hình thức tổ chức phi lợi nhuận. Nó không phải là công ty. Nó cũng không phải là cơ quan nhà nước. Tổ chức cộng đồng này được lập ra để giúp phụ nữ lao động cải thiện chất lượng sống cho bản thân và gia đình họ. Bạn của chị nghe nói đến Dịch vụ Hoa Cúc từ chị gái của chị ấy, người chị gái đã cảm thấy mất phương hướng và không còn động lực làm việc kể từ khi chồng chị ấy qua đời. Chị ấy được tham vấn tại Dịch vụ Hoa Cúc trong sáu tháng và bây giờ đã cảm thấy đỡ hơn. Người bạn cũng nói rằng tổ chức này cung cấp nhiều loại hình dịch vụ, bao gồm các buổi thiền, thậm chí họ nhận giữ trẻ miễn phí cho những người đến tham vấn.  {br}{br}{b}Hoạt động:{/b} Trong bài tập này, tôi muốn nhờ chị giúp tôi hiểu điều gì có thể quan trọng đối với chị khi quyết định đi hoặc không đi gặp tổ chức Dịch vụ Hoa Cúc. Đặc biệt, tôi muốn biết điều gì có thể làm {b}tăng{/b} khả năng chị muốn đi gặp Dịch vụ Hoa Cúc và điều gì có thể làm {b}giảm{/b} khả năng chị muốn đi gặp Dịch vụ Hoa Cúc, dù chị muốn tìm hiểu thêm về dịch vụ tham vấn hoặc các dịch vụ khác của họ. {br}</item>
+
+        <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
+        <item id="step1Head">Bước 1</item>
+        <item id="step1Text">Trên màn hình tiếp theo, chị sẽ thấy một bộ bài. Mỗi thẻ nêu chi tiết một đặc điểm của một tổ chức. Ví dụ, một số thẻ mô tả những người làm việc ở Dịch vụ Hoa Cúc; một số khác thì mô tả kiểu người thường tìm đến dịch vụ của tổ chức Dịch vụ Hoa Cúc; một số khác thì mô tả môi trường văn phòng của Dịch vụ Hoa Cúc. 
+
+{br}{br}Đặt mỗi thẻ vào một trong ba chồng thẻ: (1) Quan trọng ít, (2) Bình thường, và (3) Quan trọng nhiều {br}{br}Chị có thể kéo thẻ vào một trong ba cọc hoặc {b} nhấn 1, 2, 3 {/ b} trên bàn phím. Các thay đổi có thể được thực hiện sau.{br}{br}Nếu chị muốn đọc hướng dẫn này lần thứ hai, hãy nhấn vào nút trợ giúp ở góc dưới cùng bên trái.</item>
+
+        <!-- step2: sorting (leave blank to skip popup) -->
+        <item id="step2Head">Bước 2</item>
+        <item id="step2Text">Kế tiếp, dùng bảng được cung cấp, chị xin vui lòng phân loại tất cả các thẻ này vào trong bảng đó. {br}{br}Đầu tiên hãy cầm lên những thẻ trong chồng thẻ “quan trọng nhiều”. Bắt đầu bằng cách xác định hai thẻ có những đặc điểm của một tổ chức phi lợi nhuận quan trọng nhất đối với chị. Đặt hai thẻ này vào một trong hai ô ở phía bên phải của bảng. {br}{br}Sau đó, cầm lên những thẻ trong chồng thẻ “quan trọng ít”. Hãy xác định hai thẻ mô tả những đặc điểm ít quan trọng nhất đối với chị. {br}{br}Dần dần với các thẻ còn lại từ ba chồng thẻ này, chị có thể lấp vào giữa bảng, là nơi chị đặt những đặc điểm không thuộc hai nhóm trên.</item>
+        <item id="step2CondOfInstruc">Sắp xếp các thẻ</item>
+        <item id="step2TextSizeLabel">Text</item>
+        
+
+        <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
+        <item id="step3Head">Bước 3 </item>
+        <item id="step3Text">Bây giờ bạn đã đặt tất cả các thẻ trên bảng điểm. Vui lòng xem lại bản phân phối của chị một lần nữa và hoán đổi vị trí thẻ nếu muốn.</item>
+        <item id="step3CondOfInstruc">Xem lại vị trí của tất cả 49 thẻ</item>
+
+        <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
+        <item id="step4Head">Bước 4</item>
+        <item id="step4Text">Chị có thể nói thêm về hai thẻ mà chị chọn cho cột đầu tiên và cột cuối cùng không? Đây là những đặc điểm chị xếp loại là quan trọng nhất và (+5) ít quan trọng nhất (-5). Chị có thể cho biết chị ra quyết định thế nào khi chọn thẻ này? </item>
+
+        <!-- step5: dditional questions, only displayed if showStep5== true (see config-file; leave blank to skip popup)-->
+        <item id="step5Head">Bước 5</item>
+        <item id="step5Text">Cuối cùng, vui lòng trả lời các câu hỏi sau về lý lịch của chị.</item>
+
+        <!-- data transfer, only displayed if submitUrl is not blank (see config-file) -->
+        <item id="transferHead">Gửi dữ liệu</item>
+        <item id="transferText">Chị đã hoàn thành hoạt động. Vui lòng gửi dữ liệu của chị ngay bây giờ.</item>
+        <item id="transferFailed">Không gửi được dữ liệu. Vui lòng thử lại.</item>
+        <item id="transferOk">Cảm ơn chị đã tham gia vào hoạt động Q-sort này!{br}{br}Bây giờ chị có thể đóng cửa sổ trình duyệt của mình.</item>   
+   </language>
