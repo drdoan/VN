@@ -27,7 +27,7 @@
 
         <!-- welcome screen (leave blank to skip screen) -->
         <item id="welcomeHead">Chào mừng!</item>
-        <item id="welcomeText">Cảm ơn chị đã đồng ý tham gia nghiên cứu Q-sort về tổ chức phi lợi nhuận!{br}{br}{b}** Thông tin quan trọng **{/b}{br}Đối với hoạt động này, chị sẽ cần nhiều không gian màn hình nhất có thể!{br}{br}Nếu cần, vui lòng {b}TỐI ĐA{/b} kích thước cửa sổ trình duyệt của chị,{b}{i}tải lại{/i}{/b} trang web này và nhấp vào nút "Tiếp tục" để bắt đầu khảo sát.</item>
+        <item id="welcomeText">Cảm ơn chị đã đồng ý tham gia nghiên cứu về tổ chức phi lợi nhuận!{br}{br}{b}** Thông tin quan trọng **{/b}{br}Đối với hoạt động này, chị sẽ cần màn hình càng rộng càng tốt!{br}{br}Nếu cần, vui lòng {b}PHÓNG TO TỐI ĐA{/b} kích thước cửa sổ trình duyệt của chị,{b}{i}tải lại{/i}{/b} trang web này và nhấp vào nút "Tiếp tục" để bắt đầu khảo sát.</item>
 
         <!-- user login, only displayed if access is restricted (see config-file) -->
         <item id="loginHead">Mã truy cập</item>
